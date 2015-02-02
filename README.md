@@ -215,6 +215,7 @@ in alignment with the Grunt 4.0 convention of having standard 'files' and 'optio
 
 
 ## slanders770/grunt-match-replace History
+- v0.4.2 - 2015/02/02 renamed reference to grunt-text-replace to grunt-match-replace
 - v0.4.1 - 2015/01/29 Forked from yoniholmes/grunt-text-replace 0.4.0
 
 ## yoniholmes/grunt-text-replace History
